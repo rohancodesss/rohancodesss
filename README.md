@@ -29,8 +29,7 @@ I am the Founder and Engineering Lead of **[Bariki](https://bariki.app)**, a spe
 * **Microsoft**: Certified Ethical Hacking & Digital Security
 * **Samsung**: Chip Design for High School (Specialized Engineering Program)
 ### 📊 My Contribution Activity
-[![Rohan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=rohancodesss&show_icons=true&theme=radial)](https://github.com/rohancodesss)
-
+[![Rohan's GitHub Contributions](https://ghchart.rshah.org/rohancodesss)](https://github.com/rohancodesss)
 ### 📫 Let's Connect!
 
 * **Email**: [rohandev@proton.me](mailto:rohandev@proton.me)
