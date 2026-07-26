@@ -28,8 +28,7 @@ I am the Founder and Engineering Lead of **[Bariki](https://bariki.app)**, a spe
 * **Google**: Certified Android Development with Kotlin
 * **Microsoft**: Certified Ethical Hacking & Digital Security
 * **Samsung**: Chip Design for High School (Specialized Engineering Program)
-
-  ### 📊 My Contribution Activity
+### 📊 My Contribution Activity
 [![Rohan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=rohancodesss&show_icons=true&theme=radial)](https://github.com/rohancodesss)
 
 ### 📫 Let's Connect!
