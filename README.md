@@ -32,5 +32,5 @@ I am the Founder and Technical Lead of Bariki, a specialized platform built by s
 [![Rohan's GitHub Contributions](https://ghchart.rshah.org/rohancodesss)](https://github.com/rohancodesss)
 ### 📫 Let's Connect!
 
-* **Email**: [rohandev@proton.me](mailto:rohandev@proton.me)
+* **Email**: rohandev [at] proton [dot] me
 * **Startup**: [bariki.app](https://bariki.app)
