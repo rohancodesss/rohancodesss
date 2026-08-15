@@ -33,4 +33,4 @@ I am the Founder and Technical Lead of Bariki, a specialized platform built by s
 ### 📫 Let's Connect!
 
 * **Email**: rohandev [at] proton [dot] me
-* **Startup**: [bariki.app](https://bariki.app)
+* **Startup**: [bariki.app](https://bariki.app) (rohan.lanka@bariki.app)
