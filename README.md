@@ -14,7 +14,7 @@ I am the Founder and Technical Lead of Bariki, a specialized platform built by s
 ### 🛠️ What I'm Working On
 
 * **Startup Management**: Scaling operations and product features for the bariki.app platform.
-* **Harvard University**: Advanced coursework in Computer Science & Cybersecurity. (CS50 Cybersecurity conpleted, CS50x in progress)
+* **Harvard University**: Advanced coursework in Computer Science & Cybersecurity. (CS50 Cybersecurity completed, CS50x in progress)
 * **Web Development**: Completing advanced JavaScript certifications.
 
 ### 🏆 Major Achievements
@@ -26,9 +26,9 @@ I am the Founder and Technical Lead of Bariki, a specialized platform built by s
 ### 📜 Verified Credentials & Certifications
 
 * **Google**: Certified Android Development with Kotlin
-* **Microsoft**: Certified Ethical Hacking & Digital Security
+* **Microsoft**: Certified Ethical Hacking & Digital Security (via Army Public School Bangalore)
 * **Samsung**: Chip Design for High School (Specialized Student Program)
-
+Currently studying in Army Public School, Shankar Vihar. 
 [![Rohan's GitHub Contributions](https://ghchart.rshah.org/rohancodesss)](https://github.com/rohancodesss)
 ### 📫 Let's Connect!
 
