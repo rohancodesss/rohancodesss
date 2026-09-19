@@ -14,7 +14,7 @@ I am the Founder and Technical Lead of Bariki, a specialized platform built by s
 ### 🛠️ What I'm Working On
 
 * **Startup Management**: Scaling operations and product features for the bariki.app platform.
-* **Harvard University**: Advanced coursework in Computer Science & Cybersecurity.
+* **Harvard University**: Advanced coursework in Computer Science & Cybersecurity. (CS50 Cybersecurity conpleted, CS50x in progress)
 * **Web Development**: Completing advanced JavaScript certifications.
 
 ### 🏆 Major Achievements
